@@ -1,16 +1,12 @@
 {
   "assetsByChunkName": {
-    "path---tags-aws": [
-      "path---tags-aws-4b11a2b031c109ddf878.js",
-      "path---tags-aws-4b11a2b031c109ddf878.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-1707babd8ae91240ae7a.js",
       "component---src-pages-index-js-1707babd8ae91240ae7a.js.map"
     ],
     "path---tags": [
-      "path---tags-cc5c192b8c39c0dad81d.js",
-      "path---tags-cc5c192b8c39c0dad81d.js.map"
+      "path---tags-5ca14944d34ffeb3af63.js",
+      "path---tags-5ca14944d34ffeb3af63.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -41,28 +37,24 @@
       "component---src-layouts-index-js-76e999e7e6cded641f71.js.map"
     ],
     "path---mobx-learning": [
-      "path---mobx-learning-b3e5dec0a2cbe193f146.js",
-      "path---mobx-learning-b3e5dec0a2cbe193f146.js.map"
-    ],
-    "path---tags-gatsby": [
-      "path---tags-gatsby-d76c158bac0d54236ea2.js",
-      "path---tags-gatsby-d76c158bac0d54236ea2.js.map"
+      "path---mobx-learning-e77a022cf5655c7edd6f.js",
+      "path---mobx-learning-e77a022cf5655c7edd6f.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-3b6363e2531402eebe3f.js",
-      "path---index-3b6363e2531402eebe3f.js.map"
+      "path---index-0331a8a7a73b55b40acd.js",
+      "path---index-0331a8a7a73b55b40acd.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "path---yarn-link": [
-      "path---yarn-link-48b386c1b02f642979c0.js",
-      "path---yarn-link-48b386c1b02f642979c0.js.map"
+      "path---yarn-link-85fac6f65695c5dfaa5e.js",
+      "path---yarn-link-85fac6f65695c5dfaa5e.js.map"
     ],
     "commons": [
       "commons-03d06fae215d875698c7.js",
@@ -73,10 +65,6 @@
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---getting-gatsby-hosted-on-aws": [
-      "path---getting-gatsby-hosted-on-aws-282448e4755ea564a473.js",
-      "path---getting-gatsby-hosted-on-aws-282448e4755ea564a473.js.map"
     ],
     "path---node-path-imports": [
       "path---node-path-imports-aa9b4e7729c097ac8af8.js",
@@ -91,9 +79,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-806572059b55e08c4080.js",
+      "app-1568a7e220fd7a31afc2.js",
       "build-js-styles.css",
-      "app-806572059b55e08c4080.js.map",
+      "app-1568a7e220fd7a31afc2.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
