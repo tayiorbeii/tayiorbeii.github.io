@@ -5,8 +5,8 @@
       "component---src-pages-index-js-1707babd8ae91240ae7a.js.map"
     ],
     "path---tags": [
-      "path---tags-5ca14944d34ffeb3af63.js",
-      "path---tags-5ca14944d34ffeb3af63.js.map"
+      "path---tags-37ef51e4a05d6963bcd6.js",
+      "path---tags-37ef51e4a05d6963bcd6.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -20,13 +20,17 @@
       "component---src-templates-tag-page-js-9b1f917f93c1fa4af736.js",
       "component---src-templates-tag-page-js-9b1f917f93c1fa4af736.js.map"
     ],
+    "path---basic-rails-app": [
+      "path---basic-rails-app-cb7bdf10a5e5c4322644.js",
+      "path---basic-rails-app-cb7bdf10a5e5c4322644.js.map"
+    ],
     "path---tags-react": [
       "path---tags-react-da7106f354f56f85838c.js",
       "path---tags-react-da7106f354f56f85838c.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-c8c142a9dd2477f89fee.js",
-      "component---src-templates-blog-post-js-c8c142a9dd2477f89fee.js.map"
+      "component---src-templates-blog-post-js-9a976a3c48ea23093d9d.js",
+      "component---src-templates-blog-post-js-9a976a3c48ea23093d9d.js.map"
     ],
     "path---tags-create-react-app": [
       "path---tags-create-react-app-302f978ea4c2c09be01e.js",
@@ -37,16 +41,36 @@
       "component---src-layouts-index-js-76e999e7e6cded641f71.js.map"
     ],
     "path---mobx-learning": [
-      "path---mobx-learning-e77a022cf5655c7edd6f.js",
-      "path---mobx-learning-e77a022cf5655c7edd6f.js.map"
+      "path---mobx-learning-da1fb714bb803b91e13f.js",
+      "path---mobx-learning-da1fb714bb803b91e13f.js.map"
+    ],
+    "path---tags-instant-pot": [
+      "path---tags-instant-pot-d14493161e7aff77a64e.js",
+      "path---tags-instant-pot-d14493161e7aff77a64e.js.map"
+    ],
+    "path---instant-pot-refried-beans": [
+      "path---instant-pot-refried-beans-75ce3bd7522fecdf917a.js",
+      "path---instant-pot-refried-beans-75ce3bd7522fecdf917a.js.map"
+    ],
+    "path---recipes": [
+      "path---recipes-bde7b217a359d0ffdbca.js",
+      "path---recipes-bde7b217a359d0ffdbca.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---tags-recipe": [
+      "path---tags-recipe-3c82bf49fc0729ee5537.js",
+      "path---tags-recipe-3c82bf49fc0729ee5537.js.map"
+    ],
     "path---index": [
-      "path---index-0331a8a7a73b55b40acd.js",
-      "path---index-0331a8a7a73b55b40acd.js.map"
+      "path---index-423fd913079bb5bfd86f.js",
+      "path---index-423fd913079bb5bfd86f.js.map"
+    ],
+    "path---tags-rails": [
+      "path---tags-rails-b24f74484fcb27f88942.js",
+      "path---tags-rails-b24f74484fcb27f88942.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -66,9 +90,17 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---tags-heroku": [
+      "path---tags-heroku-c0cf4511487bd620717d.js",
+      "path---tags-heroku-c0cf4511487bd620717d.js.map"
+    ],
     "path---node-path-imports": [
       "path---node-path-imports-aa9b4e7729c097ac8af8.js",
       "path---node-path-imports-aa9b4e7729c097ac8af8.js.map"
+    ],
+    "path---instant-pot-mexican-quinoa": [
+      "path---instant-pot-mexican-quinoa-71be9817fa9d068724a4.js",
+      "path---instant-pot-mexican-quinoa-71be9817fa9d068724a4.js.map"
     ],
     "component---src-templates-all-tags-js": [
       "component---src-templates-all-tags-js-5c692b478caef190fbb3.js",
@@ -78,19 +110,31 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
+    "component---src-pages-recipes-js": [
+      "component---src-pages-recipes-js-2991ce99cf758c05acd8.js",
+      "component---src-pages-recipes-js-2991ce99cf758c05acd8.js.map"
+    ],
     "app": [
-      "app-1568a7e220fd7a31afc2.js",
+      "app-cd43a59cf40e3236547a.js",
       "build-js-styles.css",
-      "app-1568a7e220fd7a31afc2.js.map",
+      "app-cd43a59cf40e3236547a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---tags-code": [
+      "path---tags-code-46c1c08f45cbad851a8e.js",
+      "path---tags-code-46c1c08f45cbad851a8e.js.map"
+    ],
     "path---tags-npm": [
       "path---tags-npm-9078e575907c5ccff3ee.js",
       "path---tags-npm-9078e575907c5ccff3ee.js.map"
+    ],
+    "path---tags-ruby": [
+      "path---tags-ruby-6adf9412e5649d22f90e.js",
+      "path---tags-ruby-6adf9412e5649d22f90e.js.map"
     ],
     "path---tags-mobx": [
       "path---tags-mobx-7b66efa4afaba63e1963.js",
