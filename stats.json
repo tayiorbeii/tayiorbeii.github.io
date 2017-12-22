@@ -5,8 +5,8 @@
       "component---src-pages-index-js-1707babd8ae91240ae7a.js.map"
     ],
     "path---tags": [
-      "path---tags-37ef51e4a05d6963bcd6.js",
-      "path---tags-37ef51e4a05d6963bcd6.js.map"
+      "path---tags-1572a0fda46112d06927.js",
+      "path---tags-1572a0fda46112d06927.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -27,6 +27,10 @@
     "path---tags-react": [
       "path---tags-react-da7106f354f56f85838c.js",
       "path---tags-react-da7106f354f56f85838c.js.map"
+    ],
+    "path---affinity-method": [
+      "path---affinity-method-2082307fcb2a413a1c13.js",
+      "path---affinity-method-2082307fcb2a413a1c13.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-9a976a3c48ea23093d9d.js",
@@ -52,6 +56,10 @@
       "path---instant-pot-refried-beans-75ce3bd7522fecdf917a.js",
       "path---instant-pot-refried-beans-75ce3bd7522fecdf917a.js.map"
     ],
+    "path---tags-research": [
+      "path---tags-research-71592dfe71f9d2910032.js",
+      "path---tags-research-71592dfe71f9d2910032.js.map"
+    ],
     "path---recipes": [
       "path---recipes-bde7b217a359d0ffdbca.js",
       "path---recipes-bde7b217a359d0ffdbca.js.map"
@@ -65,8 +73,8 @@
       "path---tags-recipe-3c82bf49fc0729ee5537.js.map"
     ],
     "path---index": [
-      "path---index-423fd913079bb5bfd86f.js",
-      "path---index-423fd913079bb5bfd86f.js.map"
+      "path---index-5019cd04271ed9c207f6.js",
+      "path---index-5019cd04271ed9c207f6.js.map"
     ],
     "path---tags-rails": [
       "path---tags-rails-b24f74484fcb27f88942.js",
@@ -115,9 +123,9 @@
       "component---src-pages-recipes-js-2991ce99cf758c05acd8.js.map"
     ],
     "app": [
-      "app-cd43a59cf40e3236547a.js",
+      "app-0dd983e95efc37d0af74.js",
       "build-js-styles.css",
-      "app-cd43a59cf40e3236547a.js.map",
+      "app-0dd983e95efc37d0af74.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
